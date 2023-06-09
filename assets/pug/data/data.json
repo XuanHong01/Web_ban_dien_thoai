@@ -27,16 +27,38 @@
 			],
 			"menu": [
 				{
-					"title": "Home",
-					"link": "index.html"
+					"title": "",
+					"link": "",
+					"type": "text"
 				},
 				{
-					"title": "About",
-					"link": "about.html"
+					"title": "Nha Trang",
+					"link": "",
+					"type": "input"
 				},
 				{
-					"title": "GitHub",
-					"link": "javascript:void(0)"
+					"title": "",
+					"link": ""
+				},
+				{
+					"title": "Tài khoản & Đơn hàng",
+					"link": ""
+				},
+				{
+					"title": "",
+					"link": ""
+				},
+				{
+					"title": "24h Công nghệ",
+					"link": ""
+				},
+				{
+					"title": "Hỏi đáp",
+					"link": ""
+				},
+				{
+					"title": "Game App",
+					"link": ""
 				}
 			]
 		},
@@ -48,8 +70,7 @@
 			"url_image_page": "https://cdn.dribbble.com/userupload/3179612/file/original-0a3d69b15003b98826db6ee95e294627.png?compress=1&resize=1024x768",
 			"css": [
 				"lib",
-				"fonts",
-				"home"
+				"fonts"
 			],
 			"js": [
 				"lib",
@@ -63,8 +84,7 @@
 			"url_image_page": "https://cdn.dribbble.com/userupload/3179612/file/original-0a3d69b15003b98826db6ee95e294627.png?compress=1&resize=1024x768",
 			"css": [
 				"lib",
-				"fonts",
-				"about"
+				"fonts"
 			],
 			"js": [
 				"lib"
